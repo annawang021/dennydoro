@@ -5,7 +5,7 @@ export default {
     track: {
       bg: mode("blackAlpha.200", "whiteAlpha.200")(props),
       _checked: {
-        bg: "accentAlpha.800",
+        bg: mode("accent.950", "accent.50")(props),
       },
     },
     thumb: {

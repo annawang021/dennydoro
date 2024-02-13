@@ -3,7 +3,6 @@ import { Duration } from "luxon";
 import { useDispatch, useSelector } from "react-redux";
 import Bed from "./Bed";
 import BedInteract from "./BedInteract";
-// import DennySmiling from "./Popups/DennySmiling";
 import DennyLaying from "./DennyLaying";
 import DennySleeping from "./DennySleeping";
 import DennyLayingInteractive from "./DennyLayingInteractive";
@@ -66,9 +65,8 @@ function TotalFocusTime() {
       <Bed formattedTime={formattedTime} />
       {stage === "FOCUS" && <DennyLaying />}
       {stage === "BREAK" && <DennySleeping />}
-      {/* {showPopup1 && <DennySmiling onClose={() => setShowPopup1(false)} />} */}
       <BedInteract aria-label="reset total time" onClick={restartTotalFocusTime} />
-      <DennyLayingInteractive aria-label="denny" />
+      <DennyLayingInteractive aria-label="denny"/>
     </>
   );
 }
