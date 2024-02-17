@@ -14,7 +14,7 @@ const initialState = {
   breakLength: {
     friendlyName: "break length (mins)",
     type: "number",
-    value: 10,
+    value: 15,
   },
   sound: {
     friendlyName: "sound",
