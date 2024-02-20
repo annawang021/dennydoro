@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://dennydoro.vercel.app">
-    <img src="favicons/apple-touch-icon-focus.png" alt="logo" width="250" height="250" >
+    <img src="src/assets/favicons/apple-touch-icon-focus.png" alt="logo" width="250" height="250" >
   </a>
 
 <h3 align="center">Dennydoro</h3>
@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://dennydoro.vercel.app">
-    <img src="images/dennydoro.png" alt="screenshots" width="1024">
+    <img src="src/assets/images/dennydoro.jpg" alt="screenshots" width="1024">
   </a>
 </div>
 
