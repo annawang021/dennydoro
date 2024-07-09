@@ -24,7 +24,7 @@
   </a>
 </div>
 
-Dennydoro is a custom pomodoro timer created to help keep you on focused. 
+Dennydoro is a custom pomodoro timer created to help keep you focused. 
 
 Inspired by my best friend's late cat Denny, this timer was tailored to the core to this special orange cat -- the bowtie play button is reminiscent of his iconic collar, and the images, sounds, and colors are all Denny's.
 
